@@ -2,9 +2,9 @@
 
 ## SVG
 
-| Solid Black | Solid White | Outline Black | Outline White | Solid Cloudogu | Outline Cloudogu |
-| --- | --- | --- | --- | --- | --- |
-| ![](gitops-icon.svg) | ![](gitops-icon-white.svg) | ![](gitops-icon-outline.svg) | ![](gitops-icon-white-outline.svg) | ![](gitops-icon-cloudogu.svg) | ![](gitops-icon-outline-cloudogu.svg) | 
+| Solid Black | Solid White | Outline Black | Outline White | Solid Cloudogu | Outline Cloudogu | Turning cloudogu                      |
+| --- | --- | --- | --- | --- | --- |---------------------------------------|
+| ![](gitops-icon.svg) | ![](gitops-icon-white.svg) | ![](gitops-icon-outline.svg) | ![](gitops-icon-white-outline.svg) | ![](gitops-icon-cloudogu.svg) | ![](gitops-icon-outline-cloudogu.svg) | ![](gitops-icon-cloudogu-turning.svg) | 
 
 ## PNG
 
